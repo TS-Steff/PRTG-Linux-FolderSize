@@ -16,7 +16,7 @@ If you monitor the folder size with the PRTG Folder sensor, it will get 300MB. T
 ## Description
 This script gets the folder sizes from an array and pushes the result to a PRTG HTTP Push Data Advanced Sensor.
 
-![Alt text](/Screenshots/prtg.png?raw=true "PRTG Screenshot")
+![PRTG Screenshot](/Screenshots/prtg.PNG?raw=true "PRTG Screenshot")
 
 
 ## Config
